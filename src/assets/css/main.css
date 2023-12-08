@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.logo {
+    font-family: 'Pacifico', cursive !important;
+}
+
+.ff-pacifico {
+    font-family: 'Pacifico', cursive !important;
+}
+
+.big-title {
+    font-size: 3rem;
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .display-pc {
+        max-width: 650px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .presentation {
+        width: 80% !important;
+        padding-right: 150px;
+        padding-left: 150px;
+    }
+}
+
+.presentation {
+    filter: blur(3px) brightness(45%);
+    object-fit: cover;
+    object-position: center;
+    height: 400px;
+    width: 100% !important;
+}
+
+.card-pp {
+    object-position: 0 -20px;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+}
+
+body {}

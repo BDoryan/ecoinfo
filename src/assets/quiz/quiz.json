@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Le changement climatique",
+        "questions": [
+            {
+                "question": "Quelles sont les principales sources d'émissions de dioxyde de carbone (CO2) d'origine humaine ?",
+                "options": ["Utilisation de pesticides", "Déforestation", "Industrie", "Résidences individuelles"],
+                "correct_answers": ["b", "c"]
+            },
+            {
+                "question": "Quel pourcentage des émissions mondiales de CO2 est attribuable à l'industrie ?",
+                "options": ["Environ 50%", "Moins de 10%", "Plus de 75%", "Environ 25% (c'est la bonne réponse)"],
+                "correct_answers": ["d"]
+            },
+            {
+                "question": "Pourquoi est-il important de réduire les émissions de gaz à effet de serre ?",
+                "options": ["Pour encourager la croissance des plantes", "Pour éviter des changements climatiques catastrophiques", "Pour créer un environnement plus chaud et agréable", "Pour réduire la pollution sonore"],
+                "correct_answers": ["b"]
+            },
+            {
+                "question": "Quel gaz à effet de serre est principalement responsable du réchauffement climatique ?",
+                "options": ["Méthane (CH4)", "Dioxyde de carbone (CO2)", "Ozone (O3)", "Protoxyde d'azote (N2O)"],
+                "correct_answers": ["b"]
+            },
+            {
+                "question": "Quel est l'effet du réchauffement climatique sur les phénomènes météorologiques extrêmes ?",
+                "options": ["Aucun impact", "Diminution des phénomènes extrêmes", "Augmentation des phénomènes extrêmes", "Les phénomènes extrêmes deviennent plus prévisibles"],
+                "correct_answers": ["c"]
+            },
+            {
+                "question": "Comment les forêts contribuent-elles à atténuer le réchauffement climatique ?",
+                "options": ["Elles augmentent les émissions de gaz à effet de serre", "Elles absorbent le CO2 lors de la photosynthèse", "Elles n'ont aucun impact sur le climat", "Elles libèrent du méthane, contribuant au réchauffement"],
+                "correct_answers": ["b"]
+            },
+            {
+                "question": "Quelle est la principale cause du réchauffement climatique ?",
+                "options": ["Variabilité naturelle du climat", "Activités humaines (émissions de gaz à effet de serre)", "Activité solaire", "Éruptions volcaniques"],
+                "correct_answers": ["b"]
+            },
+            {
+                "question": "Quelle est la relation entre la fonte des glaciers et le niveau de la mer ?",
+                "options": ["La fonte des glaciers n'affecte pas le niveau de la mer", "La fonte des glaciers diminue le niveau de la mer", "La fonte des glaciers augmente le niveau de la mer", "Les glaciers n'ont aucun lien avec le niveau de la mer"],
+                "correct_answers": ["c"]
+            },
+            {
+                "question": "Quel secteur est responsable d'une part importante des émissions de méthane ?",
+                "options": ["Agriculture", "Production d'électricité", "Transport", "Secteur résidentiel"],
+                "correct_answers": ["a"]
+            },
+            {
+                "question": "Quel impact le réchauffement climatique a-t-il sur les océans ?",
+                "options": ["Les océans se refroidissent", "Les océans restent inchangés", "Les océans se réchauffent, menaçant la vie marine", "Les océans n'ont aucun lien avec le climat"],
+                "correct_answers": ["c"]
+            },
+            {
+                "question": "Quel est le rôle des océans dans l'atténuation du réchauffement climatique ?",
+                "options": ["Ils n'ont aucun rôle dans la régulation climatique", "Ils absorbent le CO2, atténuant le réchauffement", "Ils émettent du CO2, contribuant au réchauffement", "Les océans refroidissent directement l'atmosphère"],
+                "correct_answers": ["b"]
+            },
+            {
+                "question": "Qu'est-ce que l'effet de serre ?",
+                "options": ["Un processus qui refroidit la planète", "Une méthode pour augmenter la production agricole", "Un phénomène qui maintient la chaleur dans l'atmosphère", "Un événement météorologique extrême"],
+                "correct_answers": ["c"]
+            },
+            {
+                "question": "Comment les activités humaines affectent-elles la biodiversité ?",
+                "options": ["Elles favorisent la diversité biologique", "Elles n'ont aucun impact sur la biodiversité", "Elles contribuent à la perte de biodiversité", "Elles augmentent la taille des populations animales"],
+                "correct_answers": ["c"]
+            },
+            {
+                "question":"Que pensent la plupart des scientifiques du changement climatique ?",
+                "options":["C'est principalement dû aux variations naturelles du climat","C'est principalement causé par l'activité humaine","C'est une combinaison d'activités humaines et de facteurs naturels","Les scientifiques ne sont pas d'accord sur les causes"],
+                "correct_answers":["c"]
+            }
+        ]
+    }
+]
